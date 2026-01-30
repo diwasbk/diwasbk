@@ -1,4 +1,5 @@
 ## 🧑‍💻 Full Stack Software Developer
+Passionate Full Stack Software Developer with experience building scalable web and mobile applications, RESTful APIs, and intuitive user interfaces. I enjoy solving real-world problems using modern technologies, clean architecture, and best development practices.
 
 ---
 ## 🛠️ Tech Stack & Tools
